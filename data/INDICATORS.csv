@@ -1,0 +1,2 @@
+table,indicator,isfilter,isprimarykey,title,description,unittype
+SF1,revenue,N,N,Revenues,[Income Statement] Amount of Revenue recognized from goods sold; services rendered; insurance premiums; or other activities that constitute an earning process. Interest income for financial institutions is reported net of interest expense and provision for credit losses.,currency
